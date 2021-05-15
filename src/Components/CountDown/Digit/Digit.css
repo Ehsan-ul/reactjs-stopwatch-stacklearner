@@ -1,0 +1,6 @@
+.Digit {
+  width: 130px;
+  height: 130px;
+  border: 4px solid;
+  border-radius: 50%;
+}
